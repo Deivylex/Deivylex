@@ -22,8 +22,13 @@ innovative solutions, and I'm actively seeking opportunities to grow professiona
 ## 🛠️ **Technical Skills**
 While I am continuously learning, here’s what I’m currently proficient in:  
 
-**Languages:**  
-- C, C++, bash.
+**Languages:** 
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 **Tools & Frameworks:**  
 - Docker, MLX42, SFML  
@@ -42,8 +47,10 @@ I thrive on solving complex problems and quickly adapting to new technologies, b
 ---
 
 ## 🌐 **Get in Touch**
-- **LinkedIn:** [Deivy Zurita Paredes](https://www.linkedin.com/in/deivy-zurita-paredes-361ab8156)  
-- **Email:** [deivylex93@gmail.com](mailto:deivylex93@gmail.com)  
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivy-zurita-paredes-361ab8156)
+
+- **Email:** [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivylex93@gmail.com)
+
 
 ---
 
