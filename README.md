@@ -23,7 +23,7 @@ innovative solutions, and I'm actively seeking opportunities to grow professiona
 While I am continuously learning, here’s what I’m currently proficient in:  
 
 **Languages:**  
-- C, C++, Python  
+- C, C++
 
 **Tools & Frameworks:**  
 - Docker, MLX42, SFML  
