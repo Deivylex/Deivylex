@@ -47,7 +47,7 @@ I thrive on solving complex problems and quickly adapting to new technologies, b
 ---
 
 ## 🌐 **Get in Touch**
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivy-zurita-paredes-361ab8156)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivy-zurita-paredes-361ab8156)
 
 - **Email:** [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deivylex93@gmail.com)
 
