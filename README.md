@@ -23,11 +23,12 @@ innovative solutions, and I'm actively seeking opportunities to grow professiona
 While I am continuously learning, here’s what I’m currently proficient in:  
 
 **Languages:** 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+(https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+(https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+(https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 **Tools & Frameworks:**  
