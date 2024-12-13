@@ -9,7 +9,7 @@ innovative solutions, and I'm actively seeking opportunities to grow professiona
 🎓 **Education:**  
 - Electronics Engineer  
 - Graduate from **I.U.T. Dr. Federico Rivero Palacio** (2012 - 2016) in **Electronics and Electrical Engineering**  
-- Student at **Hive Helsinki**, focusing on low-level programming and system design  
+- Student at **Hive Helsinki** 
 
 💼 **Licenses:**  
 - Professional Electronics Engineer  
