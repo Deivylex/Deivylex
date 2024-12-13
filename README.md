@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Deivylex  
+# 👋 Hello, I'm Deivy  
 Welcome to my GitHub! I'm an **Electronics Engineer** and a **student at [Hive Helsinki](https://www.hive.fi/)**.
 I graduated in **Electronics Engineering** from **I.U.T. Dr. Federico Rivero Palacio** in Venezuela. I’m passionate about combining hardware and software to build impactful,
 innovative solutions, and I'm actively seeking opportunities to grow professionally.
