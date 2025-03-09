@@ -1,4 +1,4 @@
-👋 Hello, I'm Deivy
+## 👋 Hello, I'm Deivy
 Welcome to my GitHub! I'm an Electronics Engineer and a Software Developer in training at Hive Helsinki.
 I have a strong foundation in C and C++, along with experience in low-level programming, algorithms, and system development. My background in electronics and networking gives me a unique perspective when solving technical challenges.
 
